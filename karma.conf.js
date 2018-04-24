@@ -27,7 +27,6 @@ module.exports = function (config) {
 
     // list of files to exclude
     exclude: [
-      'src/main/*.ts',
       'src/datatypes/*.ts',
       'src/functions/*.ts',
       'src/functions/various/*.ts',
@@ -83,7 +82,7 @@ module.exports = function (config) {
     // start these browsers
     // available browser launchers: https://npmjs.org/browse/keyword/karma-launcher
     browsers: [
-      // 'Chrome',
+      //'Chrome',
       'ChromeHeadless',
       // 'Firefox',
       // 'IE',
