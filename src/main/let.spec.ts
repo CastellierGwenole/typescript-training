@@ -50,7 +50,7 @@ describe('let declarations', () => {
   })
 
   it('enable to use nested block statements', () => {
-    // replace dots (...) below with appropriate `let` statements to make expectations pass
+    // replace dots (...) below with appropriate `let` statements to make expectations pa
 
     // NESTED BLOCK STATEMENTS
     // let...
